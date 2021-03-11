@@ -19,4 +19,4 @@ export default function Alert({ children, type }: AlertProps) {
   );
 }
 
-// Personnal helper for classnames library
+/* ------ Personnal helper for classnames library ------ -*/
